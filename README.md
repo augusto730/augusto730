@@ -1,16 +1,13 @@
-## Hi there 👋
+### Boas vindas ao meu perfil 💙
 
-<!--
-**augusto730/augusto730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Augusto
 
-Here are some ideas to get you started:
+- Estopu estudando na [Alura](https://Alura.com)
+- Estou me desenvolvendo na linguagem HTML e Java
+- Utilizo esse espaço para compartilhamento dos meus projetos desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce pode entrar em contato comigo 📫
+
+00001104480487sp@al.educacao.sp.gov.br
+
+![](https://media1.tenor.com/m/W8ImMlYbR2EAAAAd/byuntear-incrives-meme.gif)
